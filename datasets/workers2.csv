@@ -1,0 +1,246 @@
+Location,Title,Level,Family,Job_Code,Twenty_Fifth,Fifty,Seventy_Fifth,Max
+Berlin,Business Analyst,L1,Business-Operations,BUA-000,35000,40000,45000,50000
+Berlin,Business Analyst,L2,Business-Operations,BUA-000,42000,48000,54000,60000
+Berlin,Business Analyst,L3,Business-Operations,BUA-000,50400,57600,64800,72000
+Berlin,Business Analyst,L4,Business-Operations,BUA-000,60480,69120,77760,86400
+Berlin,Business Analyst,L5,Business-Operations,BUA-000,72576,82944,93312,103680
+Berlin,Business Analyst,L6,Business-Operations,BUA-000,87091,99533,111974,124416
+Berlin,Business Analyst,L7,Business-Operations,BUA-000,104509,119439,134369,149299
+Berlin,Data Scientist,L1,Engineering-Science,DAS-000,40000,50000,60000,65000
+Berlin,Data Scientist,L2,Engineering-Science,DAS-000,48000,60000,72000,78000
+Berlin,Data Scientist,L3,Engineering-Science,DAS-000,57600,72000,86400,93600
+Berlin,Data Scientist,L4,Engineering-Science,DAS-000,69120,86400,103680,112320
+Berlin,Data Scientist,L5,Engineering-Science,DAS-000,82944,103680,124416,134784
+Berlin,Data Scientist,L6,Engineering-Science,DAS-000,99533,124416,149299,161741
+Berlin,Data Scientist,L7,Engineering-Science,DAS-000,119439,149299,179159,194089
+Berlin,Data Analyst,L1,Data-Management,DAA-000,37000,46500,50000,60000
+Berlin,Data Analyst,L2,Data-Management,DAA-000,44400,55800,60000,72000
+Berlin,Data Analyst,L3,Data-Management,DAA-000,53280,66960,72000,86400
+Berlin,Data Analyst,L4,Data-Management,DAA-000,63936,80352,86400,103680
+Berlin,Data Analyst,L5,Data-Management,DAA-000,76723,96422,103680,124416
+Berlin,Data Analyst,L6,Data-Management,DAA-000,92068,115707,124416,149299
+Berlin,Data Analyst,L7,Data-Management,DAA-000,110481,138848,149299,179159
+Berlin,Data Engineer,L1,Engineering-Data,DAE-000,40000,44000,50000,63000
+Berlin,Data Engineer,L2,Engineering-Data,DAE-000,48000,52800,60000,75600
+Berlin,Data Engineer,L3,Engineering-Data,DAE-000,57600,63360,72000,90720
+Berlin,Data Engineer,L4,Engineering-Data,DAE-000,69120,76032,86400,108864
+Berlin,Data Engineer,L5,Engineering-Data,DAE-000,82944,91238,103680,130637
+Berlin,Data Engineer,L6,Engineering-Data,DAE-000,99533,109486,124416,156764
+Berlin,Data Engineer,L7,Engineering-Data,DAE-000,119439,131383,149299,188117
+Berlin,Database Engineer,L1,Engineering-Data,DBE-000,40000,44000,50000,63000
+Berlin,Database Engineer,L2,Engineering-Data,DBE-000,48000,52800,60000,75600
+Berlin,Database Engineer,L3,Engineering-Data,DBE-000,57600,63360,72000,90720
+Berlin,Database Engineer,L4,Engineering-Data,DBE-000,69120,76032,86400,108864
+Berlin,Database Engineer,L5,Engineering-Data,DBE-000,82944,91238,103680,130637
+Berlin,Database Engineer,L6,Engineering-Data,DBE-000,99533,109486,124416,156764
+Berlin,Database Engineer,L7,Engineering-Data,DBE-000,119439,131383,149299,188117
+Berlin,Data Security Engineer,L1,Engineering-Data,DSE-000,40000,44000,50000,63000
+Berlin,Data Security Engineer,L2,Engineering-Data,DSE-000,48000,52800,60000,75600
+Berlin,Data Security Engineer,L3,Engineering-Data,DSE-000,57600,63360,72000,90720
+Berlin,Data Security Engineer,L4,Engineering-Data,DSE-000,69120,76032,86400,108864
+Berlin,Data Security Engineer,L5,Engineering-Data,DSE-000,82944,91238,103680,130637
+Berlin,Data Security Engineer,L6,Engineering-Data,DSE-000,99533,109486,124416,156764
+Berlin,Data Security Engineer,L7,Engineering-Data,DSE-000,119439,131383,149299,188117
+Berlin,Machine Learning Engineer,L1,Engineering-Science,MLE-000,40000,50000,60000,65000
+Berlin,Machine Learning Engineer,L2,Engineering-Science,MLE-000,48000,60000,72000,78000
+Berlin,Machine Learning Engineer,L3,Engineering-Science,MLE-000,57600,72000,86400,93600
+Berlin,Machine Learning Engineer,L4,Engineering-Science,MLE-000,69120,86400,103680,112320
+Berlin,Machine Learning Engineer,L5,Engineering-Science,MLE-000,82944,103680,124416,134784
+Berlin,Machine Learning Engineer,L6,Engineering-Science,MLE-000,99533,124416,149299,161741
+Berlin,Machine Learning Engineer,L7,Engineering-Science,MLE-000,119439,149299,179159,194089
+Barcelona,Business Analyst,L1,Business-Operations,BUA-000,27000,30000,35000,40000
+Barcelona,Business Analyst,L2,Business-Operations,BUA-000,32400,36000,42000,48000
+Barcelona,Business Analyst,L3,Business-Operations,BUA-000,38880,43200,50400,57600
+Barcelona,Business Analyst,L4,Business-Operations,BUA-000,46656,51840,60480,69120
+Barcelona,Business Analyst,L5,Business-Operations,BUA-000,55987,62208,72576,82944
+Barcelona,Business Analyst,L6,Business-Operations,BUA-000,67185,74650,87091,99533
+Barcelona,Business Analyst,L7,Business-Operations,BUA-000,80622,89580,104509,119439
+Barcelona,Data Scientist,L1,Engineering-Science,DAS-000,33000,40000,50000,55000
+Barcelona,Data Scientist,L2,Engineering-Science,DAS-000,39600,48000,60000,66000
+Barcelona,Data Scientist,L3,Engineering-Science,DAS-000,47520,57600,72000,79200
+Barcelona,Data Scientist,L4,Engineering-Science,DAS-000,57024,69120,86400,95040
+Barcelona,Data Scientist,L5,Engineering-Science,DAS-000,68429,82944,103680,114048
+Barcelona,Data Scientist,L6,Engineering-Science,DAS-000,82115,99533,124416,136858
+Barcelona,Data Scientist,L7,Engineering-Science,DAS-000,98537,119439,149299,164229
+Barcelona,Data Analyst,L1,Data-Management,DAA-000,27000,36000,40000,50000
+Barcelona,Data Analyst,L2,Data-Management,DAA-000,32400,43200,48000,60000
+Barcelona,Data Analyst,L3,Data-Management,DAA-000,38880,51840,57600,72000
+Barcelona,Data Analyst,L4,Data-Management,DAA-000,46656,62208,69120,86400
+Barcelona,Data Analyst,L5,Data-Management,DAA-000,55987,74650,82944,103680
+Barcelona,Data Analyst,L6,Data-Management,DAA-000,67185,89580,99533,124416
+Barcelona,Data Analyst,L7,Data-Management,DAA-000,80622,107495,119439,149299
+Barcelona,Data Engineer,L1,Engineering-Data,DAE-000,30000,34000,40000,53000
+Barcelona,Data Engineer,L2,Engineering-Data,DAE-000,36000,40800,48000,63600
+Barcelona,Data Engineer,L3,Engineering-Data,DAE-000,43200,48960,57600,76320
+Barcelona,Data Engineer,L4,Engineering-Data,DAE-000,51840,58752,69120,91584
+Barcelona,Data Engineer,L5,Engineering-Data,DAE-000,62208,70502,82944,109901
+Barcelona,Data Engineer,L6,Engineering-Data,DAE-000,74650,84603,99533,131881
+Barcelona,Data Engineer,L7,Engineering-Data,DAE-000,89580,101523,119439,158257
+Barcelona,Database Engineer,L1,Engineering-Data,DBE-000,30000,35000,40000,53000
+Barcelona,Database Engineer,L2,Engineering-Data,DBE-000,36000,42000,48000,63600
+Barcelona,Database Engineer,L3,Engineering-Data,DBE-000,43200,50400,57600,76320
+Barcelona,Database Engineer,L4,Engineering-Data,DBE-000,51840,60480,69120,91584
+Barcelona,Database Engineer,L5,Engineering-Data,DBE-000,62208,72576,82944,109901
+Barcelona,Database Engineer,L6,Engineering-Data,DBE-000,74650,87091,99533,131881
+Barcelona,Database Engineer,L7,Engineering-Data,DBE-000,89580,104509,119439,158257
+Barcelona,Data Security Engineer,L1,Engineering-Data,DSE-000,35000,37600,43000,53000
+Barcelona,Data Security Engineer,L2,Engineering-Data,DSE-000,42000,45120,51600,63600
+Barcelona,Data Security Engineer,L3,Engineering-Data,DSE-000,50400,54144,61920,76320
+Barcelona,Data Security Engineer,L4,Engineering-Data,DSE-000,60480,64973,74304,91584
+Barcelona,Data Security Engineer,L5,Engineering-Data,DSE-000,72576,77967,89165,109901
+Barcelona,Data Security Engineer,L6,Engineering-Data,DSE-000,87091,93561,106998,131881
+Barcelona,Data Security Engineer,L7,Engineering-Data,DSE-000,104509,112273,128397,158257
+Barcelona,Machine Learning Engineer,L1,Engineering-Science,MLE-000,35000,43000,52300,60000
+Barcelona,Machine Learning Engineer,L2,Engineering-Science,MLE-000,42000,51600,62760,72000
+Barcelona,Machine Learning Engineer,L3,Engineering-Science,MLE-000,50400,61920,75312,86400
+Barcelona,Machine Learning Engineer,L4,Engineering-Science,MLE-000,60480,74304,90374,103680
+Barcelona,Machine Learning Engineer,L5,Engineering-Science,MLE-000,72576,89165,108449,124416
+Barcelona,Machine Learning Engineer,L6,Engineering-Science,MLE-000,87091,106998,130139,149299
+Barcelona,Machine Learning Engineer,L7,Engineering-Science,MLE-000,104509,128397,156167,179159
+Madrid,Business Analyst,L1,Business-Operations,BUA-000,27000,30000,35000,40000
+Madrid,Business Analyst,L2,Business-Operations,BUA-000,32400,36000,42000,48000
+Madrid,Business Analyst,L3,Business-Operations,BUA-000,38880,43200,50400,57600
+Madrid,Business Analyst,L4,Business-Operations,BUA-000,46656,51840,60480,69120
+Madrid,Business Analyst,L5,Business-Operations,BUA-000,55987,62208,72576,82944
+Madrid,Business Analyst,L6,Business-Operations,BUA-000,67185,74650,87091,99533
+Madrid,Business Analyst,L7,Business-Operations,BUA-000,80622,89580,104509,119439
+Madrid,Data Scientist,L1,Engineering-Science,DAS-000,33000,40000,50000,55000
+Madrid,Data Scientist,L2,Engineering-Science,DAS-000,39600,48000,60000,66000
+Madrid,Data Scientist,L3,Engineering-Science,DAS-000,47520,57600,72000,79200
+Madrid,Data Scientist,L4,Engineering-Science,DAS-000,57024,69120,86400,95040
+Madrid,Data Scientist,L5,Engineering-Science,DAS-000,68429,82944,103680,114048
+Madrid,Data Scientist,L6,Engineering-Science,DAS-000,82115,99533,124416,136858
+Madrid,Data Scientist,L7,Engineering-Science,DAS-000,98537,119439,149299,164229
+Madrid,Data Analyst,L1,Data-Management,DAA-000,27000,36000,40000,50000
+Madrid,Data Analyst,L2,Data-Management,DAA-000,32400,43200,48000,60000
+Madrid,Data Analyst,L3,Data-Management,DAA-000,38880,51840,57600,72000
+Madrid,Data Analyst,L4,Data-Management,DAA-000,46656,62208,69120,86400
+Madrid,Data Analyst,L5,Data-Management,DAA-000,55987,74650,82944,103680
+Madrid,Data Analyst,L6,Data-Management,DAA-000,67185,89580,99533,124416
+Madrid,Data Analyst,L7,Data-Management,DAA-000,80622,107495,119439,149299
+Madrid,Data Engineer,L1,Engineering-Data,DAE-000,30000,34000,40000,53000
+Madrid,Data Engineer,L2,Engineering-Data,DAE-000,36000,40800,48000,63600
+Madrid,Data Engineer,L3,Engineering-Data,DAE-000,43200,48960,57600,76320
+Madrid,Data Engineer,L4,Engineering-Data,DAE-000,51840,58752,69120,91584
+Madrid,Data Engineer,L5,Engineering-Data,DAE-000,62208,70502,82944,109901
+Madrid,Data Engineer,L6,Engineering-Data,DAE-000,74650,84603,99533,131881
+Madrid,Data Engineer,L7,Engineering-Data,DAE-000,89580,101523,119439,158257
+Madrid,Database Engineer,L1,Engineering-Data,DBE-000,30000,35000,40000,53000
+Madrid,Database Engineer,L2,Engineering-Data,DBE-000,36000,42000,48000,63600
+Madrid,Database Engineer,L3,Engineering-Data,DBE-000,43200,50400,57600,76320
+Madrid,Database Engineer,L4,Engineering-Data,DBE-000,51840,60480,69120,91584
+Madrid,Database Engineer,L5,Engineering-Data,DBE-000,62208,72576,82944,109901
+Madrid,Database Engineer,L6,Engineering-Data,DBE-000,74650,87091,99533,131881
+Madrid,Database Engineer,L7,Engineering-Data,DBE-000,89580,104509,119439,158257
+Madrid,Data Security Engineer,L1,Engineering-Data,DSE-000,35000,37600,43000,53000
+Madrid,Data Security Engineer,L2,Engineering-Data,DSE-000,42000,45120,51600,63600
+Madrid,Data Security Engineer,L3,Engineering-Data,DSE-000,50400,54144,61920,76320
+Madrid,Data Security Engineer,L4,Engineering-Data,DSE-000,60480,64973,74304,91584
+Madrid,Data Security Engineer,L5,Engineering-Data,DSE-000,72576,77967,89165,109901
+Madrid,Data Security Engineer,L6,Engineering-Data,DSE-000,87091,93561,106998,131881
+Madrid,Data Security Engineer,L7,Engineering-Data,DSE-000,104509,112273,128397,158257
+Madrid,Machine Learning Engineer,L1,Engineering-Science,MLE-000,35000,43000,52300,60000
+Madrid,Machine Learning Engineer,L2,Engineering-Science,MLE-000,42000,51600,62760,72000
+Madrid,Machine Learning Engineer,L3,Engineering-Science,MLE-000,50400,61920,75312,86400
+Madrid,Machine Learning Engineer,L4,Engineering-Science,MLE-000,60480,74304,90374,103680
+Madrid,Machine Learning Engineer,L5,Engineering-Science,MLE-000,72576,89165,108449,124416
+Madrid,Machine Learning Engineer,L6,Engineering-Science,MLE-000,87091,106998,130139,149299
+Madrid,Machine Learning Engineer,L7,Engineering-Science,MLE-000,104509,128397,156167,179159
+Franfurt,Business Analyst,L1,Business-Operations,BUA-000,35000,40000,45000,50000
+Franfurt,Business Analyst,L2,Business-Operations,BUA-000,42000,48000,54000,60000
+Franfurt,Business Analyst,L3,Business-Operations,BUA-000,50400,57600,64800,72000
+Franfurt,Business Analyst,L4,Business-Operations,BUA-000,60480,69120,77760,86400
+Franfurt,Business Analyst,L5,Business-Operations,BUA-000,72576,82944,93312,103680
+Franfurt,Business Analyst,L6,Business-Operations,BUA-000,87091,99533,111974,124416
+Franfurt,Business Analyst,L7,Business-Operations,BUA-000,104509,119439,134369,149299
+Franfurt,Data Scientist,L1,Engineering-Science,DAS-000,45000,55000,63000,67500
+Franfurt,Data Scientist,L2,Engineering-Science,DAS-000,54000,66000,75600,81000
+Franfurt,Data Scientist,L3,Engineering-Science,DAS-000,64800,79200,90720,97200
+Franfurt,Data Scientist,L4,Engineering-Science,DAS-000,77760,95040,108864,116640
+Franfurt,Data Scientist,L5,Engineering-Science,DAS-000,93312,114048,130637,139968
+Franfurt,Data Scientist,L6,Engineering-Science,DAS-000,111974,136858,156764,167962
+Franfurt,Data Scientist,L7,Engineering-Science,DAS-000,134369,164229,188117,201554
+Franfurt,Data Analyst,L1,Data-Management,DAA-000,42000,51000,53400,65400
+Franfurt,Data Analyst,L2,Data-Management,DAA-000,50400,61200,64080,78480
+Franfurt,Data Analyst,L3,Data-Management,DAA-000,60480,73440,76896,94176
+Franfurt,Data Analyst,L4,Data-Management,DAA-000,72576,88128,92275,113011
+Franfurt,Data Analyst,L5,Data-Management,DAA-000,87091,105754,110730,135613
+Franfurt,Data Analyst,L6,Data-Management,DAA-000,104509,126904,132876,162736
+Franfurt,Data Analyst,L7,Data-Management,DAA-000,125411,152285,159452,195283
+Franfurt,Data Engineer,L1,Engineering-Data,DAE-000,43200,47200,53200,67200
+Franfurt,Data Engineer,L2,Engineering-Data,DAE-000,51840,56640,63840,80640
+Franfurt,Data Engineer,L3,Engineering-Data,DAE-000,62208,67968,76608,96768
+Franfurt,Data Engineer,L4,Engineering-Data,DAE-000,74650,81562,91930,116122
+Franfurt,Data Engineer,L5,Engineering-Data,DAE-000,89580,97874,110316,139346
+Franfurt,Data Engineer,L6,Engineering-Data,DAE-000,107495,117449,132379,167215
+Franfurt,Data Engineer,L7,Engineering-Data,DAE-000,128995,140938,158854,200658
+Franfurt,Database Engineer,L1,Engineering-Data,DBE-000,50000,48700,53200,68400
+Franfurt,Database Engineer,L2,Engineering-Data,DBE-000,60000,58440,63840,82080
+Franfurt,Database Engineer,L3,Engineering-Data,DBE-000,72000,70128,76608,98496
+Franfurt,Database Engineer,L4,Engineering-Data,DBE-000,86400,84154,91930,118195
+Franfurt,Database Engineer,L5,Engineering-Data,DBE-000,103680,100984,110316,141834
+Franfurt,Database Engineer,L6,Engineering-Data,DBE-000,124416,121181,132379,170201
+Franfurt,Database Engineer,L7,Engineering-Data,DBE-000,149299,145417,158854,204241
+Franfurt,Data Security Engineer,L1,Engineering-Data,DSE-000,48700,52300,64500,68700
+Franfurt,Data Security Engineer,L2,Engineering-Data,DSE-000,58440,62760,77400,82440
+Franfurt,Data Security Engineer,L3,Engineering-Data,DSE-000,70128,75312,92880,98928
+Franfurt,Data Security Engineer,L4,Engineering-Data,DSE-000,84154,90374,111456,118714
+Franfurt,Data Security Engineer,L5,Engineering-Data,DSE-000,100984,108449,133747,142456
+Franfurt,Data Security Engineer,L6,Engineering-Data,DSE-000,121181,130139,160497,170948
+Franfurt,Data Security Engineer,L7,Engineering-Data,DSE-000,145417,156167,192596,205137
+Franfurt,Machine Learning Engineer,L1,Engineering-Science,MLE-000,44300,53400,63500,68700
+Franfurt,Machine Learning Engineer,L2,Engineering-Science,MLE-000,53160,64080,76200,82440
+Franfurt,Machine Learning Engineer,L3,Engineering-Science,MLE-000,63792,76896,91440,98928
+Franfurt,Machine Learning Engineer,L4,Engineering-Science,MLE-000,76550,92275,109728,118714
+Franfurt,Machine Learning Engineer,L5,Engineering-Science,MLE-000,91860,110730,131674,142456
+Franfurt,Machine Learning Engineer,L6,Engineering-Science,MLE-000,110233,132876,158008,170948
+Franfurt,Machine Learning Engineer,L7,Engineering-Science,MLE-000,132279,159452,189610,205137
+Munich,Business Analyst,L1,Business-Operations,BUA-000,41200,43400,49500,53400
+Munich,Business Analyst,L2,Business-Operations,BUA-000,49440,52080,59400,64080
+Munich,Business Analyst,L3,Business-Operations,BUA-000,59328,62496,71280,76896
+Munich,Business Analyst,L4,Business-Operations,BUA-000,71194,74995,85536,92275
+Munich,Business Analyst,L5,Business-Operations,BUA-000,85432,89994,102643,110730
+Munich,Business Analyst,L6,Business-Operations,BUA-000,102519,107993,123172,132876
+Munich,Business Analyst,L7,Business-Operations,BUA-000,123023,129592,147806,159452
+Munich,Data Scientist,L1,Engineering-Science,DAS-000,45000,55000,63000,67500
+Munich,Data Scientist,L2,Engineering-Science,DAS-000,54000,66000,75600,81000
+Munich,Data Scientist,L3,Engineering-Science,DAS-000,64800,79200,90720,97200
+Munich,Data Scientist,L4,Engineering-Science,DAS-000,77760,95040,108864,116640
+Munich,Data Scientist,L5,Engineering-Science,DAS-000,93312,114048,130637,139968
+Munich,Data Scientist,L6,Engineering-Science,DAS-000,111974,136858,156764,167962
+Munich,Data Scientist,L7,Engineering-Science,DAS-000,134369,164229,188117,201554
+Munich,Data Analyst,L1,Data-Management,DAA-000,42000,51000,53400,65400
+Munich,Data Analyst,L2,Data-Management,DAA-000,50400,61200,64080,78480
+Munich,Data Analyst,L3,Data-Management,DAA-000,60480,73440,76896,94176
+Munich,Data Analyst,L4,Data-Management,DAA-000,72576,88128,92275,113011
+Munich,Data Analyst,L5,Data-Management,DAA-000,87091,105754,110730,135613
+Munich,Data Analyst,L6,Data-Management,DAA-000,104509,126904,132876,162736
+Munich,Data Analyst,L7,Data-Management,DAA-000,125411,152285,159452,195283
+Munich,Data Engineer,L1,Engineering-Data,DAE-000,43200,47200,53200,67200
+Munich,Data Engineer,L2,Engineering-Data,DAE-000,51840,56640,63840,80640
+Munich,Data Engineer,L3,Engineering-Data,DAE-000,62208,67968,76608,96768
+Munich,Data Engineer,L4,Engineering-Data,DAE-000,74650,81562,91930,116122
+Munich,Data Engineer,L5,Engineering-Data,DAE-000,89580,97874,110316,139346
+Munich,Data Engineer,L6,Engineering-Data,DAE-000,107495,117449,132379,167215
+Munich,Data Engineer,L7,Engineering-Data,DAE-000,128995,140938,158854,200658
+Munich,Database Engineer,L1,Engineering-Data,DBE-000,50000,48700,53200,68400
+Munich,Database Engineer,L2,Engineering-Data,DBE-000,60000,58440,63840,82080
+Munich,Database Engineer,L3,Engineering-Data,DBE-000,72000,70128,76608,98496
+Munich,Database Engineer,L4,Engineering-Data,DBE-000,86400,84154,91930,118195
+Munich,Database Engineer,L5,Engineering-Data,DBE-000,103680,100984,110316,141834
+Munich,Database Engineer,L6,Engineering-Data,DBE-000,124416,121181,132379,170201
+Munich,Database Engineer,L7,Engineering-Data,DBE-000,149299,145417,158854,204241
+Munich,Data Security Engineer,L1,Engineering-Data,DSE-000,48700,52300,64500,68700
+Munich,Data Security Engineer,L2,Engineering-Data,DSE-000,58440,62760,77400,82440
+Munich,Data Security Engineer,L3,Engineering-Data,DSE-000,70128,75312,92880,98928
+Munich,Data Security Engineer,L4,Engineering-Data,DSE-000,84154,90374,111456,118714
+Munich,Data Security Engineer,L5,Engineering-Data,DSE-000,100984,108449,133747,142456
+Munich,Data Security Engineer,L6,Engineering-Data,DSE-000,121181,130139,160497,170948
+Munich,Data Security Engineer,L7,Engineering-Data,DSE-000,145417,156167,192596,205137
+Munich,Machine Learning Engineer,L1,Engineering-Science,MLE-000,44300,53400,63500,68700
+Munich,Machine Learning Engineer,L2,Engineering-Science,MLE-000,53160,64080,76200,82440
+Munich,Machine Learning Engineer,L3,Engineering-Science,MLE-000,63792,76896,91440,98928
+Munich,Machine Learning Engineer,L4,Engineering-Science,MLE-000,76550,92275,109728,118714
+Munich,Machine Learning Engineer,L5,Engineering-Science,MLE-000,91860,110730,131674,142456
+Munich,Machine Learning Engineer,L6,Engineering-Science,MLE-000,110233,132876,158008,170948
+Munich,Machine Learning Engineer,L7,Engineering-Science,MLE-000,132279,159452,189610,205137
