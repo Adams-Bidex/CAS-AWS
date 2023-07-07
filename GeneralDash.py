@@ -94,7 +94,37 @@ async def DashWrangler(Division,Level,Location):
                      .fillna(0) \
                      .reset_index() \
                      .set_axis(['Year', *list2], axis=1)\
-                     .sort_values(by='Year')   
+                     .sort_values(by='Year')  
+    
+    MedSalaryByGenderLocation=df[['Location','Gender','Annual_Sal']] \
+                     .groupby(['Location','Gender']) \
+                     .median() \
+                     .fillna(0) \
+                     .reset_index()
+    div = MedSalaryByGenderLocation['Gender'].unique()
+    list1 = sorted(list(div))
+
+    MedSalaryByGenderLocation=MedSalaryByGenderLocation \
+                     .pivot(index=['Location'], columns=['Gender'], values=['Annual_Sal']) \
+                     .fillna(0) \
+                     .reset_index() \
+                     .set_axis(['Location', *list1], axis=1)\
+                     .sort_values(by='Female')
+
+    def GapEstimator(x):
+        if (x['Female'] > 0 and x['Male'] > 0):
+            return x['Female'] / x['Male']
+        elif (x['Female'] == 0 or x['Male'] == 0):
+            return 0
+        else:
+            return 0
+
+    MedSalaryByGenderLocation['PayGap'] = MedSalaryByGenderLocation.apply(GapEstimator,axis=1)
+    MedSalaryByGenderLocation['PayGap'] = (MedSalaryByGenderLocation['PayGap']*100).round(2)
+
+    MedSalaryByGenderLocation=MedSalaryByGenderLocation.sort_values(by="PayGap", ascending=False)
+    
+    MedSalaryByGenderLocation=MedSalaryByGenderLocation.to_dict('records') 
     MedSalaryByYearGender=MedSalaryByYearGender.to_dict('records')
     SalaryByDivisionSummary= SalaryByDivisionSummary.to_dict('records')
     Summaries=Summaries.to_dict('records')
@@ -105,4 +135,5 @@ async def DashWrangler(Division,Level,Location):
             'SalaryByDivisionSummary':SalaryByDivisionSummary,
             'CountByLevel':CountByLevel, 
             'SalaryByYearSummary':SalaryByYearSummary, 
-            'MedSalaryByYearGender':MedSalaryByYearGender }
+            'MedSalaryByYearGender':MedSalaryByYearGender,
+            'MedSalaryByGenderLocation':MedSalaryByGenderLocation}

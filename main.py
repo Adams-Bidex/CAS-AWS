@@ -72,12 +72,38 @@ async def BandsData(FilteredCriteria: Filter):
     return response
 
 @app.post("/generalDash")
+# async def DashData(FilteredCriteria: Filter):
+#     cache_key = str(FilteredCriteria)
+#     cached_response = cachedash.get(cache_key)
+
+#     if cached_response:
+#         return cached_response
+
+#     FilteredCriteria = FilteredCriteria.dict()
+#     Division = FilteredCriteria["divisions"]
+#     Level = FilteredCriteria["levels"]
+#     Location = FilteredCriteria["locations"]
+#     df = await DashWrangler(Division, Level, Location)
+
+#     response = {
+#         'cluster': df['df'],
+#         'Summaries': df['Summaries'],
+#         'SalaryByDivisionSummary':df['SalaryByDivisionSummary'],
+#         'CountByLevel':df['CountByLevel'],
+#         'SalaryByYearSummary':df['SalaryByYearSummary'],
+#         'Pop':df['Pop'],
+#         'MedSalaryByYearGender':df['MedSalaryByYearGender'],
+#         'MedSalaryByGenderLocation':df['MedSalaryByGenderLocation']
+#     } 
+
+#     cachedash[cache_key] = response
+
+#     return response
 async def DashData(FilteredCriteria: Filter):
     cache_key = str(FilteredCriteria)
-    cached_response = cachedash.get(cache_key)
 
-    if cached_response:
-        return cached_response
+    if cache_key in cachedash:
+        return cachedash[cache_key]
 
     FilteredCriteria = FilteredCriteria.dict()
     Division = FilteredCriteria["divisions"]
@@ -92,12 +118,19 @@ async def DashData(FilteredCriteria: Filter):
         'CountByLevel':df['CountByLevel'],
         'SalaryByYearSummary':df['SalaryByYearSummary'],
         'Pop':df['Pop'],
-        'MedSalaryByYearGender':df['MedSalaryByYearGender']
-    } 
+        'MedSalaryByYearGender':df['MedSalaryByYearGender'],
+        'MedSalaryByGenderLocation':df['MedSalaryByGenderLocation']
+    }
 
-    cachedash[cache_key] = response
+    cachedash[cache_key] = response 
 
     return response
+
+
+
+
+
+
 # from fastapi import FastAPI
 # from cachetools import TTLCache
 # from pydantic import BaseModel
